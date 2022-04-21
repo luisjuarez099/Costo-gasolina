@@ -16,7 +16,7 @@ while i<=3:
         
     opcion=int(input(("Selecciona Una opcion por favor: ")))
     if opcion==1:
-        gasolina
+        gasolina("Magna",22.08)
     elif opcion==2:
         gasolina("Premium",24.19)
     elif opcion==3:
